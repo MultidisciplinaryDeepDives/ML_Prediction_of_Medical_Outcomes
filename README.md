@@ -1,2 +1,2 @@
-# ML Prediction of Medical_Outcomes
+# ML Prediction of Medical Outcomes
 Forthcoming: stay tuned
